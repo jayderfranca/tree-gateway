@@ -55,7 +55,7 @@
   "dependencies": {
     "agentkeepalive": "^3.3.0",
     "argparse": "^1.0.9",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "cluster": "^0.7.7",
     "compression": "^1.6.2",
     "consul": "^0.29.0",
